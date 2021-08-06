@@ -20,7 +20,6 @@ const greeting = {
 };
 
 // Social Media Links
-
 const socialMediaLinks = {
   github: "https://github.com/javokhirbek1999",
   linkedin: "https://www.linkedin.com/in/javokhirbek-khaydaraliev-3b40b6182/",
